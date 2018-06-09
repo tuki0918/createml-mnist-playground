@@ -1,1 +1,1 @@
-# createml-on-swift-playground
+# createml-mnist-playground
